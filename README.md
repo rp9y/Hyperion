@@ -15,4 +15,7 @@ Discord Main: @rp9y
 Discord Alt: @y452
 
 
+You are not allowed to freely reverse-engineer this builder and steal the SRC. You can DM me on Discord, and ask. If you ask properly, you will get permission. As of now, you have no right to decompile this.
+
+
 I will very much appreciate if you star this repo, because this code took a while to make.
